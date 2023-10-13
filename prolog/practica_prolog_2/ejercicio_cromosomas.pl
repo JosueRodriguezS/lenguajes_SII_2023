@@ -15,7 +15,7 @@ persona(peter, parker, [0, 1, 1, 0, 0, 1, 0, 1, 1, 1]).
 persona(luke, skywalker, [1, 0, 1, 1, 0, 0, 1, 1, 0, 0]).
 persona(leia, organa, [0, 1, 0, 0, 1, 1, 1, 0, 0, 1]).
 
-%---Ejercicio 4 | Cromosomas---%
+%---Ejercicio 5 | Cromosomas---%
 
 % Predicado para calcular el porcentaje de similitud entre una muestra y una persona
 %
