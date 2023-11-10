@@ -10,6 +10,7 @@ target/
 .idea/libraries/
 .idea/misc.xml
 .idea/encodings.xml
+.idea/vcs.xml
 *.iws
 *.iml
 *.ipr
